@@ -9,13 +9,13 @@ Each assignment is organized in its own folder. Every SQL query is documented wi
 ```
 .
 ├── assignment01/
-│   ├── SQLQuery01.sql
+│   ├── SQL1Query01.sql
 │   └── ...
 ├── assignment02/
-│   ├── SQLQuery01.sql
+│   ├── SQL2Query01.sql
 │   └── ...
 ├── assignment03/
-│   ├── SQLQuery01.sql
+│   ├── SQL3Query01.sql
 │   └── ...
 ├── assignment04/
 │   └── Exercise04.java
